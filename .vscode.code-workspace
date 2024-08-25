@@ -1,0 +1,40 @@
+{
+	"folders": [
+		{
+			"path": "../my-app/src/.vscode"
+		},
+		{
+			"path": "../my-app/src/About jsx"
+		},
+		{
+			"path": "../my-app/src/components"
+		},
+		{
+			"path": "../my-app/src/context api"
+		},
+		{
+			"path": "../my-app/src/Greeting"
+		},
+		{
+			"path": "../my-app/src/Happy life"
+		},
+		{
+			"path": "../my-app/src/Image"
+		},
+		{
+			"path": "../my-app/src/incre"
+		},
+		{
+			"path": "../my-app/src/Pages"
+		},
+		{
+			"path": "../my-app/src/Slot  Machine"
+		},
+		{
+			"path": "../my-app/src/To Do list"
+		},
+		{
+			"path": "../my-app/src/useEffect"
+		}
+	]
+}
